@@ -1,14 +1,17 @@
 .description {
     font-size: 30px;
     color: cornflowerblue;
+    display: block;
 }
 
 .paragraph {
-    font-size: 18px;
+    font-size: 24px;
     color: black;
+    display: block;
 }
 
 .link {
-    font-size: 24px;
+    font-size: 32px;
     color: lightsalmon;
+    display: block;
 }
